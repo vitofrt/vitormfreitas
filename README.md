@@ -2,7 +2,7 @@
 
 📝 Vestibulando para o curso de Tecnologia em Análise e Desenvolvimento de Sistemas no IFRS - *Campus* Rio Grande;
 
-👨🏻‍💻 Atualmente focado em Javascript, Python e HTMLL;
+👨🏻‍💻 Atualmente focado em Javascript, Python e HTML;
 
 👀 Interessado em Web Development e Web Design.
 
