@@ -1,6 +1,6 @@
 ### 👦🏻 Vitor Freitas
 
-📝 Cursando o curso de Tecnologia em Análise e Desenvolvimento de Sistemas no IFRS - *Campus* Rio Grande;
+📝 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas no IFRS - *Campus* Rio Grande;
 
 👨🏻‍💻 Atualmente focado em Javascript, Python e HTML;
 
